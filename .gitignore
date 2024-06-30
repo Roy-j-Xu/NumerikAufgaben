@@ -1,0 +1,10 @@
+**/.vscode
+
+**/.cache
+
+**/build
+
+**/__pycache__
+
+*.png
+*.fig
